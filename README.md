@@ -1,5 +1,5 @@
 # Bike Rental Website
-Bike Rental Web Application is a platform designed to facilitate the process of bike rentals. The application allows users to easily access information about available bikes, view detailed information about each bike. User can manage avaible products in home page (deleting or adding products in json file using http requests).
+The Bike Rental Web Application is a platform designed to simplify the process of renting bikes. It provides users with easy access to information about available bikes and allows them to view detailed descriptions of each bike. The application also offers the ability to manage available products on the home page, including adding or deleting products using HTTP requests to a JSON file.
 
 ### Deployed website - https://bike-rental-website.netlify.app/
 
