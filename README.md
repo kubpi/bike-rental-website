@@ -37,7 +37,7 @@ The application is built using the React framework with React-Bootstrap and Tail
 
 ## Sources
 
-The bike images used in the application API are from sprint-rowery website (https://sprint-rowery.pl/) <br>
+The bike images used in the items.json file are from sprint-rowery website (https://sprint-rowery.pl/) <br>
 To access a wide range of pre-designed UI components, the project utilized the React-Bootstrap framework (https://react-bootstrap.github.io/). <br>
 The Tailwind CSS framework was used for styling (https://tailwindcss.com/). <br>
 The API was launched using the json-server tool (https://www.npmjs.com/package/json-server). <br>
