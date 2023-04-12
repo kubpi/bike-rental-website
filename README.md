@@ -19,7 +19,7 @@ $ npm i json-server
 
 Run project typing in console:
 ```
-$ npm run
+$ npm start
 ```
 ## How to load JSON data?
 
