@@ -35,7 +35,7 @@ $ json-server items.json -p 8000
 ## Technologies used
 The application is built using the React framework with React-Bootstrap and Tailwind CSS for styling.
 
-## Sources
+## Resources
 
 The bike images used in the items.json file are from sprint-rowery website (https://sprint-rowery.pl/) <br>
 To access a wide range of pre-designed UI components, the project utilized the React-Bootstrap framework (https://react-bootstrap.github.io/). <br>
