@@ -1,5 +1,5 @@
 # Bike Rental Website
-The Bike Rental Web Application is a platform designed to simplify the process of renting bikes. It provides users with easy access to information about available bikes and allows them to view detailed descriptions of each bike. The application also offers the ability to manage available products on the home page, including adding or deleting products using HTTP requests to a JSON file.
+The Bike Rental Web Application provides users with easy access to information about available bikes and allows them to view detailed descriptions of each bike. The application also offers the ability to manage available products on the home page.
 
 ### Deployed website - https://bike-rental-website.netlify.app/
 
@@ -33,7 +33,7 @@ $ json-server items.json -p 8000
 ```
 
 ## Technologies used
-The application is built using the React framework with React-Bootstrap and Tailwind CSS for styling.
+The application is built using the React with React-Bootstrap and Tailwind CSS for styling.
 
 ## Resources
 
